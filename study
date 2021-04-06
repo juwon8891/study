@@ -1,0 +1,5 @@
+#inclue <stdio.h>
+int main(Void)
+{
+	printf("hello");
+}
